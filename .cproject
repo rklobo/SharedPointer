@@ -26,9 +26,9 @@
 								<option id="gnu.cpp.compiler.mingw.exe.debug.option.debugging.level.1082236358" name="Debug Level" superClass="gnu.cpp.compiler.mingw.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.option.other.other.1385491476" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" value="-c -fmessage-length=0 -Werror=return-type -std=c++0x" valueType="string"/>
 								<option id="gnu.cpp.compiler.option.include.paths.1129465787" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;B:\APT Labs\boost_1_58_0\boost_1_58_0&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;B:\APTLabs\boost_1_58_0\boost_1_58_0&quot;"/>
 								</option>
-								<option id="gnu.cpp.compiler.option.preprocessor.def.633314012" superClass="gnu.cpp.compiler.option.preprocessor.def" valueType="definedSymbols">
+								<option id="gnu.cpp.compiler.option.preprocessor.def.633314012" name="Defined symbols (-D)" superClass="gnu.cpp.compiler.option.preprocessor.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__GXX_EXPERIMENTAL_CXX0X__"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.430145952" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
@@ -41,9 +41,9 @@
 							<tool id="cdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.1012240473" name="MinGW C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug"/>
 							<tool id="de.h_da.eit.git.templates.tool.gnu.cpp.linker.mingw.exe.debug.1080238319" name="MinGW C++ Linker" superClass="de.h_da.eit.git.templates.tool.gnu.cpp.linker.mingw.exe.debug">
 								<option id="gnu.cpp.link.option.paths.128545840" name="Library search path (-L)" superClass="gnu.cpp.link.option.paths" valueType="libPaths">
-									<listOptionValue builtIn="false" value="&quot;B:\APT Labs\boost_1_58_0\boost_1_58_0\libs&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;B:\APTLabs\boost_1_58_0\boost_1_58_0\libs&quot;"/>
 								</option>
-								<option id="gnu.cpp.link.option.libs.1684380578" name="Libraries (-l)" superClass="gnu.cpp.link.option.libs" valueType="libs"/>
+								<option id="gnu.cpp.link.option.libs.1684380578" name="Libraries (-l)" superClass="gnu.cpp.link.option.libs"/>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.913483713" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
 									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
